@@ -1,0 +1,1 @@
+import{Q as n}from"./chunk-BTQ2WYIZ.js";var i=(()=>{let t=class t{constructor(){this.getIsLoggedIn=()=>window.localStorage.getItem("isLoggedIn")==="true",this.persistIsLoggedIn=e=>{window.localStorage.setItem("isLoggedIn",`${e}`)}}};t.\u0275fac=function(r){return new(r||t)},t.\u0275prov=n({token:t,factory:t.\u0275fac,providedIn:"root"});let o=t;return o})();export{i as a};

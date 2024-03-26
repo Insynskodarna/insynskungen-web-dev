@@ -1,0 +1,1 @@
+import{Ia as r,Q as i}from"./chunk-BTQ2WYIZ.js";var l=(()=>{let t=class t{constructor(){this.userDataSignal=r({isLoading:!0}),this.userData=this.userDataSignal.asReadonly(),this.setUserData=s=>{this.userDataSignal.set(s)}}};t.\u0275fac=function(e){return new(e||t)},t.\u0275prov=i({token:t,factory:t.\u0275fac,providedIn:"root"});let a=t;return a})();export{l as a};
